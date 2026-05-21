@@ -1,6 +1,6 @@
 import streamlit as st
 import numpy as np
-import matplolib.pyplot as plt
+import matplotlib.pyplot as plt
 
 # JUDUL
 st.title("Evaluasi Akademik")
